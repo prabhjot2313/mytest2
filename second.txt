@@ -1,2 +1,3 @@
 Hi good morning
 you have to attend session at 6:30
+this session is about git and github
